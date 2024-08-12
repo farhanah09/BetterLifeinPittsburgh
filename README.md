@@ -1,3 +1,4 @@
+<a href="https://app.commanddash.io/agent?github=https://github.com/farhanah09/BetterLifeinPittsburgh"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
 
 # Better Life In Pittsburgh
 
